@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "@material-tailwind/react": "0.3.4",
+    "@next-auth/firebase-adapter": "^0.1.2",
+    "firebase": "^8.7.1",
     "next": "latest",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
